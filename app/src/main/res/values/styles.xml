@@ -1,0 +1,28 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="CustomAppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        // Attributes from material theme
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        // Attributes from android framework
+        <item name="android:windowBackground">#ffffff</item>
+        <item name="android:windowActivityTransitions">true</item>
+
+        // Attributes that I've defined
+        <item name="colorImagePlaceHolder">@color/GR80</item>
+    </style>
+
+
+    <style name="CustomBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+    </style>
+
+</resources>

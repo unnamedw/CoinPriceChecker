@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CoinPriceCheker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    // Navigation Menu
+    <string name="title_navigation_menu1">관심코인</string>
+    <string name="title_navigation_menu2">모든코인</string>
+    <string name="title_navigation_menu3">뉴스</string>
+    <string name="title_navigation_menu4">토론방</string>
+
+</resources>
