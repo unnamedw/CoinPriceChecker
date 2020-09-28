@@ -13,12 +13,11 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
 
-        // Attributes from android framework
-        <item name="android:windowBackground">#ffffff</item>
-        <item name="android:windowActivityTransitions">true</item>
-
-        // Attributes that I've defined
-        <item name="colorImagePlaceHolder">@color/GR80</item>
+        <item name="colorControlHighlight">@color/colorAccent</item>
+        <item name="colorControlActivated">@color/colorActivated</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/textPrimary</item>
     </style>
 
 

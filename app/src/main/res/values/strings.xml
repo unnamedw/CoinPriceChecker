@@ -1,12 +1,13 @@
 <resources>
-    <string name="app_name">CoinPriceCheker</string>
+    <string name="app_name">CoinPriceChecker</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     // Navigation Menu
-    <string name="title_navigation_menu1">관심코인</string>
-    <string name="title_navigation_menu2">모든코인</string>
-    <string name="title_navigation_menu3">뉴스</string>
-    <string name="title_navigation_menu4">토론방</string>
+    <string name="title_navigation_menu1">Home</string>
+    <string name="title_navigation_menu2">Favorite</string>
+    <string name="title_navigation_menu3">Issue</string>
+    <string name="title_navigation_menu4">Forum</string>
+    <string name="title_navigation_menu5">Setting</string>
 
 </resources>
